@@ -6,7 +6,9 @@
 
  
 1. Model Measurement Analysis:  Using any dataset and any classifier, calculate TP, TN, FP and FN from sklearn library functions. Also calculate different metrics (Accuracy, Precision, Recall(Sensitivity), F1-Score, MCC, Specificity, Negative Predictive Value) by defining our own functions. Compare your values with scikit-learn's library functions. Get the result of Confusion Matrix using sklearn. Using sklearn, plot the ROC & AUC Curves for your test data and random probabilities. Using sklearn, calculate the AUC of your test data and of random probabilities. Interpret the results. Write the inference/analysis of each output. Expectation is Supervised Learning Algorithms. Therefore, use any classifier. 
+
 2. Supervised Learning Algorithms - KNN:  Build a KNN model for predicting if a person will have diabetes or not with a high accuracy score. Perform some appropriate Pre-Processing steps on the given dataset for better results. Implement the KNN algorithm on your own. Try other possible processes that can be done to dataset and tuning the model to increase accuracy such as Increase K value, Normalization and Different Distance Metrics. Perform Feature Ablation Study. Additional Tries: Weight the features before doing KNN prediction.
+
 3. Un-Supervised Learning Algorithms - K-Means Clustering: Build a K-Means Model for the given dataset. Build a K-Means Model for the given Dataset. Use the Elbow or Silhouette method to find the best possible K-value. Use the cost function as WCSS(Within Cluster Sum of Squares). Curate a new data point and find which cluster it goes to. Write the inference. 
 
 <bold><h1>Part B</h1></bold>
@@ -36,6 +38,7 @@ Conduction of Practical Examination: -   (50 Marks)
 All laboratory experiments are to be included for practical examination.
 
 Marks Distribution: 
+
 Procedure Writing (20 Marks) 
 Implementation and Testing (20 Marks)
 Viva (10 Marks)
