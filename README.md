@@ -1,7 +1,7 @@
 # Machine-Learning
 
 
-<h1><bold>Part A<h1><bold>>/h1>
+<h1><bold>Part A<h1><bold></h1>
 <bold>Implement the following programs using Python without using Built In functions.<bold>
 
  
