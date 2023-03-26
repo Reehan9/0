@@ -1,8 +1,8 @@
 # Machine-Learning
 
 
-<h1><bold>Part A<h1><bold></h1>
-<bold>Implement the following programs using Python without using Built In functions.<bold>
+<h1><bold>Part A<h1><bold></h1><br>
+<strong>Implement the following programs using Python without using Built In functions.</strong>
 
  
 1. Model Measurement Analysis:  Using any dataset and any classifier, calculate TP, TN, FP and FN from sklearn library functions. Also calculate different metrics (Accuracy, Precision, Recall(Sensitivity), F1-Score, MCC, Specificity, Negative Predictive Value) by defining our own functions. Compare your values with scikit-learn's library functions. Get the result of Confusion Matrix using sklearn. Using sklearn, plot the ROC & AUC Curves for your test data and random probabilities. Using sklearn, calculate the AUC of your test data and of random probabilities. Interpret the results. Write the inference/analysis of each output. Expectation is Supervised Learning Algorithms. Therefore, use any classifier. 
