@@ -1,17 +1,8 @@
-# Machine-Learning-
-
-MACHINE LEARNING
-Course Code: ISL66
-Credits: 0:0:1
-Prerequisites: Scripting Languages
-Contact Hours: 14P
-Course Coordinator: Dr.Mydhili K Nair  
+# Machine-Learning
 
 
-Laboratory Experiments for Batch 2022 - 2023
-
-Part A
-Implement the following programs using Python without using Built In functions.
+<h1><bold>Part A<h1><bold>
+<bold>Implement the following programs using Python without using Built In functions.<bold>
 
  
 1. Model Measurement Analysis:  Using any dataset and any classifier, calculate TP, TN, FP and FN from sklearn library functions. Also calculate different metrics (Accuracy, Precision, Recall(Sensitivity), F1-Score, MCC, Specificity, Negative Predictive Value) by defining our own functions. Compare your values with scikit-learn's library functions. Get the result of Confusion Matrix using sklearn. Using sklearn, plot the ROC & AUC Curves for your test data and random probabilities. Using sklearn, calculate the AUC of your test data and of random probabilities. Interpret the results. Write the inference/analysis of each output. Expectation is Supervised Learning Algorithms. Therefore, use any classifier. 
