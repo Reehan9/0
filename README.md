@@ -4,7 +4,7 @@
 <h1><bold>Part A<h1><bold></h1><br>
 <strong><h2>Implement the following programs using Python without using Built In functions.</h2></strong>
 
- 1. Model Measurement Analysis:  Using any dataset and any classifier, calculate TP, TN, FP and FN from sklearn library functions. Also calculate different metrics (Accuracy, Precision, Recall(Sensitivity), F1-Score, MCC, Specificity, Negative Predictive Value) by defining our own functions. Compare your values with scikit-learn's library functions. Get the result of Confusion Matrix using sklearn. Using sklearn, plot the ROC & AUC Curves for your test data and random probabilities. Using sklearn, calculate the AUC of your test data and of random probabilities. Interpret the results. Write the inference/analysis of each output. Expectation is Supervised Learning Algorithms. Therefore, use any classifier. 
+1. Model Measurement Analysis:  Using any dataset and any classifier, calculate TP, TN, FP and FN from sklearn library functions. Also calculate different metrics (Accuracy, Precision, Recall(Sensitivity), F1-Score, MCC, Specificity, Negative Predictive Value) by defining our own functions. Compare your values with scikit-learn's library functions. Get the result of Confusion Matrix using sklearn. Using sklearn, plot the ROC & AUC Curves for your test data and random probabilities. Using sklearn, calculate the AUC of your test data and of random probabilities. Interpret the results. Write the inference/analysis of each output. Expectation is Supervised Learning Algorithms. Therefore, use any classifier. 
 
 2. Supervised Learning Algorithms - KNN:  Build a KNN model for predicting if a person will have diabetes or not with a high accuracy score. Perform some appropriate Pre-Processing steps on the given dataset for better results. Implement the KNN algorithm on your own. Try other possible processes that can be done to dataset and tuning the model to increase accuracy such as Increase K value, Normalization and Different Distance Metrics. Perform Feature Ablation Study. Additional Tries: Weight the features before doing KNN prediction.
 
@@ -12,6 +12,7 @@
 
 <bold><h1>Part B</h1></bold>
 <h2><strong>Implement the following programs using Python.</h2><strong>
+
 1. Supervised Learning Algorithms - Simple Linear Regression (Univariant): Consider any dataset from UCI repository. Create Simple Linear Regression models using the training data set. Predict the scores on the test data and find the error in prediction (E.g. RMSE, MAE, LSE).  Include appropriate code snippets to visualize the model. Use Sub-Plots Interpret the result. Write the Inference. 
 
 2. Supervised Learning Algorithms - Multiple Linear Regression (Multivariate): Consider any dataset from UCI repository. Create Multiple Linear Regression models using the training data set. Predict the scores on the test data and find the error in prediction (E.g. RMSE, MAE, LSE).  Include appropriate code snippets to visualize the model. Use Sub-Plots Interpret the result. Write the Inference.
