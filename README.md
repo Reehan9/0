@@ -1,6 +1,7 @@
 # Machine-Learning
 
-
+Hello everyone
+<br>
 <h1><bold>Part A<h1><bold></h1><br>
 <strong><h2>Implement the following programs using Python without using Built In functions.</h2></strong>
 
