@@ -1,5 +1,4 @@
 # Machine-Learning
-Hello everyone
 
 <br>
 <h1><bold>Part A<h1><bold></h1><br>
